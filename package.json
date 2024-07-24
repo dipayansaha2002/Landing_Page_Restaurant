@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-react",
+  "version": "1.0.0",
+  "description": "A responsive Web application built with React for users to browse and submit reviews of restaurants. Includes user authentication, search functionality and interactive maps for locating restaurants.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipayansaha2002/Restaurant_LandingPage.git"
+  },
+  "keywords": [
+    "react",
+    "restaurant",
+    "reviews",
+    "frontend",
+    "webapp"
+  ],
+  "author": "Dipayan Saha <sahadipayan36@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dipayansaha2002/Restaurant_LandingPage/issues"
+  },
+  "homepage": "https://github.com/dipayansaha2002/Restaurant_LandingPage#readme"
+}
